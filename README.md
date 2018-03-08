@@ -1,4 +1,4 @@
 # Hello-World
 My first project on github
 
-I am learning how t work on github repositories.
+I am learning how to work on github repositories.
